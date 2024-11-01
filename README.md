@@ -22,6 +22,10 @@ Obter questões de especificas materias<br>
 Atualizar uma questão existente<br>
 Deletar uma questão pelo ID<br>
 
+### Testes de:
+Unidade<br>
+Persistência<br>
+
 ----
 
 ### EndPoints
